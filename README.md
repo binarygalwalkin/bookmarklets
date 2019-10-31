@@ -75,9 +75,7 @@
 
 <th scope="row">Page Title</th>
 
-<td> </td>
 
-<td>[Page Title](javascript:(function(){prompt('Press Command + C to Copy Page Title', document.title);})();)</td>
 
 </tr>
 
