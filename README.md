@@ -1,5 +1,5 @@
 # bookmarklets
-<table><caption>Bookmarklet Demo Pages and Installation Links</caption>
+<table><caption>Bookmarklet Demo Pages</caption>
 
 <tbody>
 
