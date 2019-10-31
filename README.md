@@ -16,7 +16,7 @@
 
 <th scope="row">ARIA</th>
 
-<td>[ARIA](http://pauljadam.com/bookmarklets/aria.html)</td>
+<td>(http://pauljadam.com/bookmarklets/aria.html)</td>
 
 
 </tr>
@@ -25,7 +25,7 @@
 
 <th scope="row">Images</th>
 
-<td>[Images](http://pauljadam.com/bookmarklets/images.html)</td>
+<td>(http://pauljadam.com/bookmarklets/images.html)</td>
 
 
 
@@ -35,7 +35,7 @@
 
 <th scope="row">Forms</th>
 
-<td>[Forms](http://pauljadam.com/bookmarklets/forms.html)</td>
+<td>(http://pauljadam.com/bookmarklets/forms.html)</td>
 
 
 
@@ -45,7 +45,7 @@
 
 <th scope="row">Headings</th>
 
-<td>[Headings](http://pauljadam.com/bookmarklets/headings.html)</td>
+<td>(http://pauljadam.com/bookmarklets/headings.html)</td>
 
 
 
@@ -55,7 +55,7 @@
 
 <th scope="row">Tables</th>
 
-<td>[Tables](http://pauljadam.com/bookmarklets/tables.html)</td>
+<td>(http://pauljadam.com/bookmarklets/tables.html)</td>
 
 
 
@@ -65,7 +65,7 @@
 
 <th scope="row">Landmarks</th>
 
-<td>[Landmarks](http://pauljadam.com/bookmarklets/landmarks.html)</td>
+<td>(http://pauljadam.com/bookmarklets/landmarks.html)</td>
 
 
 
@@ -83,7 +83,7 @@
 
 <th scope="row">Lang</th>
 
-<td>[Lang](http://www.freedomscientific.com/training/Surfs-Up/Languages.htm)</td>
+<td>(http://www.freedomscientific.com/training/Surfs-Up/Languages.htm)</td>
 
 
 
@@ -93,7 +93,7 @@
 
 <th scope="row">Tabindex</th>
 
-<td>[Tabindex](http://pauljadam.com/bookmarklets/tabindex.html)</td>
+<td>(http://pauljadam.com/bookmarklets/tabindex.html)</td>
 
 
 
@@ -103,7 +103,7 @@
 
 <th scope="row">Title Attributes</th>
 
-<td>[Title Attributes](http://pauljadam.com/bookmarklets/title.html)</td>
+<td>(http://pauljadam.com/bookmarklets/title.html)</td>
 
 
 
@@ -113,7 +113,7 @@
 
 <th scope="row">Iframes</th>
 
-<td>[Iframes](http://pauljadam.com/bookmarklets/iframes.html)</td>
+<td>(http://pauljadam.com/bookmarklets/iframes.html)</td>
 
 
 
@@ -123,7 +123,7 @@
 
 <th scope="row">Lists</th>
 
-<td>[Lists](http://pauljadam.com/bookmarklets/lists.html)</td>
+<td>(http://pauljadam.com/bookmarklets/lists.html)</td>
 
 
 
@@ -133,7 +133,7 @@
 
 <th scope="row">Force Show Focus</th>
 
-<td>[Force Show Focus](http://pauljadam.com/bookmarklets/focus.html)</td>
+<td>(http://pauljadam.com/bookmarklets/focus.html)</td>
 
 
 
@@ -143,7 +143,7 @@
 
 <th scope="row">Reset Page</th>
 
-<td>[Reset Page](http://pauljadam.com/bookmarklets/reset.html)</td>
+<td>(http://pauljadam.com/bookmarklets/reset.html)</td>
 
 
 
@@ -153,7 +153,7 @@
 
 <th scope="row">Grayscale</th>
 
-<td>[Grayscale](http://pauljadam.com/demos/svg-line-chart.html)</td>
+<td>(http://pauljadam.com/demos/svg-line-chart.html)</td>
 
 </tr>
 
@@ -161,7 +161,7 @@
 
 <th scope="row">aXe Console.log</th>
 
-<td>[aXe Console.log](http://pauljadam.com/bookmarklets/axe.html)</td>
+<td>(http://pauljadam.com/bookmarklets/axe.html)</td>
 
 
 
